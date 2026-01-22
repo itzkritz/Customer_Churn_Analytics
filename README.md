@@ -12,7 +12,7 @@ Customer churn is a critical metric for subscription-based businesses. This proj
 * **Business Intelligence:** Ranks features by their impact on churn to guide retention offers.
 
 ## 📊 Dataset Description
-The analysis uses the `WA_Fn-UseC_-Telco-Customer-Churn.csv` dataset, which contains 7,043 customer records and 21 features, including:
+The analysis uses the https://www.kaggle.com/datasets/blastchar/telco-customer-churn dataset, which contains 7,043 customer records and 21 features, including:
 * **Demographics:** Gender, Senior Citizen status, Partner, and Dependents.
 * **Services:** Phone, Multiple Lines, Internet (DSL/Fiber Optic), Online Security, Tech Support, and Streaming.
 * **Account Info:** Tenure, Contract type, Payment Method, and Paperless Billing.
